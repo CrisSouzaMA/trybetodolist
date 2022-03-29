@@ -1,4 +1,4 @@
-## Project 2 - Módulo Fundamentos - Pixel Art
+## Project 3 - Fundamentals Module - To do list
 
 <img src="./images/todolist.jpg" alt="To do list" />
 
